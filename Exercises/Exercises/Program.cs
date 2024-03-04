@@ -25,7 +25,13 @@ namespace Exercises
             //Exercises.Week4.Exercise11();
             //Exercises.Week4.Exercise13();
             //Exercises.Week4.Exercise14(-5, 5);
-            Exercises.Week4.Exercise39();
+            //Exercises.Week4.Exercise39();
+
+            //Exercises.Week6.Exercise1();
+
+
+            Exercises.Week6.Exercise9(new int[] { 3, -2, 1, 1, 8 });
+            
         }
     }
 }

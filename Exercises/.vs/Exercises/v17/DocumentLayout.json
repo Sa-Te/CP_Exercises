@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|c:\\users\\asuna\\desktop\\exercises\\exercises\\exercises\\week4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|solutionrelative:exercises\\week4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|c:\\users\\asuna\\desktop\\exercises\\exercises\\exercises\\week6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|solutionrelative:exercises\\week6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|c:\\users\\asuna\\desktop\\exercises\\exercises\\exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|solutionrelative:exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Week4.cs",
-              "DocumentMoniker": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week4.cs",
-              "RelativeDocumentMoniker": "Exercises\\Week4.cs",
-              "ToolTip": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week4.cs",
-              "RelativeToolTip": "Exercises\\Week4.cs",
-              "ViewState": "AQIAANUDAAAAAAAAAADwvzkEAAAZAAAA",
+              "Title": "Week6.cs",
+              "DocumentMoniker": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week6.cs",
+              "RelativeDocumentMoniker": "Exercises\\Week6.cs",
+              "ToolTip": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week6.cs",
+              "RelativeToolTip": "Exercises\\Week6.cs",
+              "ViewState": "AQIAANABAAAAAAAAAAAUwAUCAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T12:43:10.122Z",
+              "WhenOpened": "2024-03-04T10:17:48.014Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Exercises\\Program.cs",
               "ToolTip": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Program.cs",
               "RelativeToolTip": "Exercises\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T12:42:51.345Z",
               "EditorCaption": ""
