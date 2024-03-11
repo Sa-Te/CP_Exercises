@@ -30,7 +30,8 @@ namespace Exercises
             //Exercises.Week6.Exercise1();
 
 
-            Exercises.Week6.Exercise9(new int[] { 3, -2, 1, 1, 8 });
+            //Exercises.Week6.Exercise9(new int[] { 3, -2, 1, 1, 8 });
+            Exercises.Week7A.Exercise1();
             
         }
     }

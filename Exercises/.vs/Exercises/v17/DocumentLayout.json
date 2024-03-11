@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|c:\\users\\asuna\\desktop\\exercises\\exercises\\exercises\\week6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|solutionrelative:exercises\\week6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|c:\\users\\asuna\\desktop\\exercises\\exercises\\exercises\\week7b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|solutionrelative:exercises\\week7b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|c:\\users\\asuna\\desktop\\exercises\\exercises\\exercises\\week7a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|solutionrelative:exercises\\week7a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1572BCCC-5327-4F39-B450-691C532DACE4}|Exercises\\Exercises.csproj|C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,25 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Week6.cs",
-              "DocumentMoniker": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week6.cs",
-              "RelativeDocumentMoniker": "Exercises\\Week6.cs",
-              "ToolTip": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week6.cs",
-              "RelativeToolTip": "Exercises\\Week6.cs",
-              "ViewState": "AQIAANABAAAAAAAAAAAUwAUCAAAAAAAA",
+              "Title": "Week7B.cs",
+              "DocumentMoniker": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week7B.cs",
+              "RelativeDocumentMoniker": "Exercises\\Week7B.cs",
+              "ToolTip": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week7B.cs",
+              "RelativeToolTip": "Exercises\\Week7B.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwv3gAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T10:17:48.014Z",
+              "WhenOpened": "2024-03-11T08:25:23.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Week7A.cs",
+              "DocumentMoniker": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week7A.cs",
+              "RelativeDocumentMoniker": "Exercises\\Week7A.cs",
+              "ToolTip": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Week7A.cs",
+              "RelativeToolTip": "Exercises\\Week7A.cs",
+              "ViewState": "AQIAAA0CAAAAAAAAAAAqwF4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:54:02.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Program.cs",
               "RelativeDocumentMoniker": "Exercises\\Program.cs",
               "ToolTip": "C:\\Users\\Asuna\\Desktop\\Exercises\\Exercises\\Exercises\\Program.cs",
               "RelativeToolTip": "Exercises\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T12:42:51.345Z",
               "EditorCaption": ""
