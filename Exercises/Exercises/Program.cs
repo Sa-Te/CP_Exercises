@@ -31,8 +31,28 @@ namespace Exercises
 
 
             //Exercises.Week6.Exercise9(new int[] { 3, -2, 1, 1, 8 });
-            Exercises.Week7A.Exercise1();
-            
+            // Exercises.Week7A.Exercise1
+            // ();
+            Exercises.Week8.Print(Exercises.Week8.Populate(10, 100));
+
+            // Create an array of strings of length 4
+            string[] names = new string[4];
+
+            // Populate the array with names
+            names[0] = "Alice";
+            names[1] = "Bob";
+            names[2] = "Charlie";
+            names[3] = "David";
+
+            // Call PrintArray method to print the array
+            Exercises.Week8.PrintArray(names);
+
+            // Swap elements at index 1 and 2
+            Exercises.Week8.Swap(names, 1, 2);
+
+            // Call PrintArray method to print the array again
+            Exercises.Week8.PrintArray(names);
+
         }
     }
 }
